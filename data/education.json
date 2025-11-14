@@ -1,0 +1,30 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "education": [
+    {
+      "degree": "Master of Engineering in Information Technology",
+      "institution": "University of the Cumberland",
+      "period": "June 2023 March 2025",
+      "location": "",
+      "description": "",
+      "honors": []
+    },
+    {
+      "degree": "Bachelor of Technology in Mechanical Engineering",
+      "institution": "RGM College of Engineering & Technology",
+      "period": "July 2015 May 2019",
+      "location": "",
+      "description": "",
+      "honors": []
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Six Sigma Green Belt",
+      "issuer": "Institute of Industrial and Systems Engineers (IISE)",
+      "date": "",
+      "description": ""
+    }
+  ]
+}

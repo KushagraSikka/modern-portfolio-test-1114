@@ -1,0 +1,94 @@
+{
+  "_instructions": "Organize your skills with proficiency levels (0-100).",
+  "_iconHelp": "Use Font Awesome icons (https://fontawesome.com/icons).",
+  "sectionTitle": "Skills & Expertise",
+  "subtitle": "Technologies and tools I work with",
+  "categories": [
+    {
+      "name": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "skills": [
+        {
+          "name": "Design & CAD Software",
+          "level": 80
+        },
+        {
+          "name": "AutoCAD",
+          "level": 80
+        },
+        {
+          "name": "SolidWorks",
+          "level": 80
+        },
+        {
+          "name": "Pro/ENGINEER (Pro-E/Creo Parametric)",
+          "level": 80
+        },
+        {
+          "name": "Siemens NX (UG NX)",
+          "level": 80
+        },
+        {
+          "name": "Windchill",
+          "level": 80
+        },
+        {
+          "name": "Teamcenter PLM",
+          "level": 85
+        },
+        {
+          "name": "Reliability & Quality Engineering",
+          "level": 80
+        },
+        {
+          "name": "DFMEA",
+          "level": 83
+        },
+        {
+          "name": "DFM/DFA",
+          "level": 82
+        },
+        {
+          "name": "GD&T (ASME Y14.5)",
+          "level": 80
+        },
+        {
+          "name": "HTHE",
+          "level": 83
+        },
+        {
+          "name": "HTOL",
+          "level": 83
+        },
+        {
+          "name": "Field Failure Analysis (FFA)",
+          "level": 80
+        },
+        {
+          "name": "Collaboration & Process Tools",
+          "level": 80
+        },
+        {
+          "name": "Confluence",
+          "level": 80
+        },
+        {
+          "name": "Polarion",
+          "level": 80
+        },
+        {
+          "name": "QC",
+          "level": 83
+        },
+        {
+          "name": "ECR & ECN",
+          "level": 80
+        },
+        {
+          "name": "Stage-Gate PDP",
+          "level": 80
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "_instructions": "Add your projects here with tags and highlights.",
+  "sectionTitle": "Featured Work",
+  "subtitle": "A selection of projects I've designed and developed",
+  "projects": [
+    {
+      "title": "Retaining Ring Analysis",
+      "category": "Software Development",
+      "description": "Conducted finite element analysis of retaining rings under displace-\nment boundary conditions. Identified yielding risks and recommended material/design changes to enhance durability.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&q=80&fit=crop",
+      "tags": [
+        "Abaqus",
+        "FEA",
+        "GD&T"
+      ],
+      "icon": "fas fa-project-diagram",
+      "highlights": [
+        "User-centered design approach",
+        "Responsive and accessible"
+      ],
+      "links": {
+        "live": "",
+        "github": "",
+        "case_study": "",
+        "prototype": ""
+      },
+      "featured": true
+    },
+    {
+      "title": "Overhead Crane Redesign",
+      "category": "Software Development",
+      "description": "Re-engineered hanging end truck\nof an overhead crane, applying DFM/DFA principles. Achieved 10% manufacturing cost reduction while maintaining\nload-bearing performance.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&q=80&fit=crop",
+      "tags": [
+        "DFM/DFA",
+        "Cost Optimization",
+        "CAD Modeling"
+      ],
+      "icon": "fas fa-project-diagram",
+      "highlights": [
+        "User-centered design approach",
+        "Responsive and accessible"
+      ],
+      "links": {
+        "live": "",
+        "github": "",
+        "case_study": "",
+        "prototype": ""
+      },
+      "featured": false
+    },
+    {
+      "title": "Heat Pipe Simulation",
+      "category": "Software Development",
+      "description": "Modeled heat pipe thermal behavior using orthotropic\ncylindrical block simulation. Generated temperature contours and airflow velocity vectors around fan-heat sink assembly,\nvalidating thermal efficiency.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&q=80&fit=crop",
+      "tags": [
+        "ANSYS Icepak",
+        "Thermal Modeling"
+      ],
+      "icon": "fas fa-project-diagram",
+      "highlights": [
+        "User-centered design approach",
+        "Responsive and accessible"
+      ],
+      "links": {
+        "live": "",
+        "github": "",
+        "case_study": "",
+        "prototype": ""
+      },
+      "featured": false
+    },
+    {
+      "title": "Automotive Sub-System Design",
+      "category": "Software Development",
+      "description": "Designed and optimized routing for fuel\nfeed pump, radiator fan, tail lamp, and starter motor assemblies. Reduced wiring harness cost by 10% through clash\ndetection and optimized layouts.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&q=80&fit=crop",
+      "tags": [
+        "CAD (NX, Pro-E)",
+        "FEA Validation"
+      ],
+      "icon": "fas fa-project-diagram",
+      "highlights": [
+        "User-centered design approach",
+        "Responsive and accessible"
+      ],
+      "links": {
+        "live": "",
+        "github": "",
+        "case_study": "",
+        "prototype": ""
+      },
+      "featured": false
+    },
+    {
+      "title": "Locomotive Component Definition",
+      "category": "Software Development",
+      "description": "Supported PDE activities for lo-\ncomotive systems. Developed manufacturable sheet metal, piping, and wire harness designs, ensuring compliance with\nASME standards and reducing rework by 15%.",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&q=80&fit=crop",
+      "tags": [
+        "Teamcenter PLM",
+        "ASME Y14.5 GD&T"
+      ],
+      "icon": "fas fa-project-diagram",
+      "highlights": [
+        "User-centered design approach",
+        "Responsive and accessible"
+      ],
+      "links": {
+        "live": "",
+        "github": "",
+        "case_study": "",
+        "prototype": ""
+      },
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "_instructions": "Hero section content - the first thing visitors see on your portfolio.",
+  "greeting": "Hi, I'm",
+  "name": "Venkata Sai Satish Somesula",
+  "title": "Professional",
+  "summary": "Results-driven Mechanical Design and Reliability Engineer with 5+ years of experience in automotive, rail, and energy\nsectors. Expertise in CAD/CAE (NX, Pro-E, Ansys, AutoCAD) product definition, and reliability validation. Proven\nrecord in DFMEA, failure analysis, and cost saving, design optimization, delivering multi-million-dollar savings while\nensuring compliance to ASME GD&T and OCP guidance. Adept at cross-functional collaboration, accelerating design\ncycle and enhancing product robustness.",
+  "highlights": [
+    {
+      "icon": "fas fa-briefcase",
+      "text": "Professional Experience"
+    },
+    {
+      "icon": "fas fa-code",
+      "text": "Technical Expertise"
+    },
+    {
+      "icon": "fas fa-users",
+      "text": "Team Collaboration"
+    }
+  ],
+  "cta": {
+    "buttons": [
+      {
+        "text": "Get In Touch",
+        "href": "#contact",
+        "type": "primary",
+        "external": false
+      },
+      {
+        "text": "View My Work",
+        "href": "#projects",
+        "type": "secondary",
+        "external": false
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/satishsomesula",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:saisathish7075@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}

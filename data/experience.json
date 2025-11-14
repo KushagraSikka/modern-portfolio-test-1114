@@ -1,0 +1,78 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Reliability Engineer (Hardware)",
+      "company": "Harbinger Motors Inc",
+      "period": "August 2024- May 2025",
+      "location": "United States",
+      "description": "• Orchestrated DFMEA for battery cooling tube coatings, producing a validation plan that projected $28M in lifecycle\nsavings.\n• Devised accelerated life-stress models, precisely calculating test duration & sample size to validate reliability.\n• Investigated busbar insulation failure modes; executed material validation studies (DSC, DMA, ΤΜΑ, TGA, EDS),\nensuring durability in Mini trucks.\n• Validated conformal coating materials via HTHE, thermal shock & coolant dunk tests, securing $5M annual savings.\n• Directed field failure analysis programs, isolating root causes, mitigating risk factors, and extending product uptime.\n• Partnered with semiconductor teams to evaluate power modules under liquid-cooled conditions, improving module\nresilience.\n• Formulated reliability protocols for immersion cooling systems, introducing in-situ corrosion & HTOL validation.\n• Conducted thermomechanical characterization of substrate and die attach per OCP standards, enhancing design\nrobustness.\n• Developed predictive reliability dashboards integrating test data with statistical models, enabling proactive failure\nprevention.",
+      "responsibilities": [
+        "• Orchestrated DFMEA for battery cooling tube coatings, producing a validation plan that projected $28M in lifecycle",
+        "• Devised accelerated life-stress models, precisely calculating test duration & sample size to validate reliability",
+        "• Investigated busbar insulation failure modes; executed material validation studies (DSC, DMA, ΤΜΑ, TGA, EDS),",
+        "ensuring durability in Mini trucks",
+        "• Validated conformal coating materials via HTHE, thermal shock & coolant dunk tests, securing $5M annual savings",
+        "• Directed field failure analysis programs, isolating root causes, mitigating risk factors, and extending product uptime",
+        "• Partnered with semiconductor teams to evaluate power modules under liquid-cooled conditions, improving module",
+        "• Formulated reliability protocols for immersion cooling systems, introducing in-situ corrosion & HTOL validation",
+        "• Conducted thermomechanical characterization of substrate and die attach per OCP standards, enhancing design",
+        "• Developed predictive reliability dashboards integrating test data with statistical models, enabling proactive failure"
+      ]
+    },
+    {
+      "title": "Senior Design Engineer",
+      "company": "Quest Global Engineering Services (for Wabtec Corporation)",
+      "period": "August 2021- March 2023",
+      "location": "India",
+      "description": "• Delivered Product Definition Engineering (PDE) support for locomotive systems, accelerating new product launches.\n• Modeled and optimized sheet metal, piping, tubing, and wire harness systems in NX and Pro-E, streamlining designs\nand reducing rework cycles by 15%.\n• Created and revised 3D models and 2D drawings to support new and legacy locomotive product development.\n• Managed and updated Bill of Materials (BOM) in Teamcenter, ensuring configuration accuracy, revision control, and\nseamless linkage between CAD data and production assemblies.\n• Administered Engineering Change Requests (ECRs) and Engineering Change Notices (ECNs) in Teamcenter PLM,\ncutting change turnaround time by 20%.\n• Drafted manufacturable designs aligned with ASME Y14.5 GD&T and welding codes, ensuring compliance and re-\nducing shop floor issues.\n• Coordinated with cross-functional engineering and manufacturing teams, driving smooth design-to-production hand-\noffs.\n• Conducted design reviews to validate feasibility, manufacturability, and cost before release.\n• Expanded locomotive domain expertise, supporting continuous design enhancements across multiple platforms.\n• Synthesized supplier and vendor feedback into revised component specifications, reducing recurring design deviations.\n• Supported root-cause analysis and corrective actions for field issues to enhance product reliability.",
+      "responsibilities": [
+        "• Delivered Product Definition Engineering (PDE) support for locomotive systems, accelerating new product launches",
+        "• Modeled and optimized sheet metal, piping, tubing, and wire harness systems in NX and Pro-E, streamlining designs",
+        "and reducing rework cycles by 15%",
+        "• Created and revised 3D models and 2D drawings to support new and legacy locomotive product development",
+        "• Managed and updated Bill of Materials (BOM) in Teamcenter, ensuring configuration accuracy, revision control, and",
+        "seamless linkage between CAD data and production assemblies",
+        "• Administered Engineering Change Requests (ECRs) and Engineering Change Notices (ECNs) in Teamcenter PLM,",
+        "cutting change turnaround time by 20%",
+        "• Drafted manufacturable designs aligned with ASME Y14",
+        "5 GD&T and welding codes, ensuring compliance and re-",
+        "ducing shop floor issues",
+        "• Coordinated with cross-functional engineering and manufacturing teams, driving smooth design-to-production hand-",
+        "• Conducted design reviews to validate feasibility, manufacturability, and cost before release",
+        "• Expanded locomotive domain expertise, supporting continuous design enhancements across multiple platforms",
+        "• Synthesized supplier and vendor feedback into revised component specifications, reducing recurring design deviations",
+        "• Supported root-cause analysis and corrective actions for field issues to enhance product reliability"
+      ]
+    },
+    {
+      "title": "Junior Product Designer",
+      "company": "ICROZ Solutions Pvt Ltd",
+      "period": "August 2019 - July 2021",
+      "location": "India",
+      "description": "• Designed optimized routes for fuel feed pumps, radiator fans, tail lamps, and starter motors, minimizing clash risks\nwith the vehicle body and improving assembly efficiency.\n• Reduced wiring harness cost by 10% through elimination of excess lengths, optimization of connector layouts, and\nstandardization of routing paths.\n• Converted STEP files into client-specific CAD models, accelerating design delivery timelines and reducing revision\ncycles by 15%.\n• Developed and maintained detailed Bill of Materials (BOM) for mechanical and electrical assemblies, ensuring 100%\naccuracy between CAD models, ERP entries, and production documentation.\n• Coordinated BOM change requests (ECR/ECN) to align design revisions with procurement and manufacturing up-\ndates, minimizing part obsolescence.\n• Inspected fitment of floor panels, clutch housing, and fender assemblies, ensuring seamless integration of sub-assemblies\nand adherence to GD&T standards.\n• Prepared QC inspection reports, FEA analyses, and client presentations, expediting design validation and approval\nprocesses.\n• Introduced lightweight design iterations for plastic and sheet metal components, improving manufacturability and\nreducing material cost by 8%.\n• Collaborated cross-functionally with sourcing and production teams to validate BOM completeness and support cost\nestimation for prototype builds.\n• Standardized part numbering and material specifications across multiple projects, reducing engineering rework and\nimproving traceability during design audits.",
+      "responsibilities": [
+        "• Designed optimized routes for fuel feed pumps, radiator fans, tail lamps, and starter motors, minimizing clash risks",
+        "with the vehicle body and improving assembly efficiency",
+        "• Reduced wiring harness cost by 10% through elimination of excess lengths, optimization of connector layouts, and",
+        "standardization of routing paths",
+        "• Converted STEP files into client-specific CAD models, accelerating design delivery timelines and reducing revision",
+        "cycles by 15%",
+        "• Developed and maintained detailed Bill of Materials (BOM) for mechanical and electrical assemblies, ensuring 100%",
+        "accuracy between CAD models, ERP entries, and production documentation",
+        "• Coordinated BOM change requests (ECR/ECN) to align design revisions with procurement and manufacturing up-",
+        "dates, minimizing part obsolescence",
+        "• Inspected fitment of floor panels, clutch housing, and fender assemblies, ensuring seamless integration of sub-assemblies",
+        "and adherence to GD&T standards",
+        "• Prepared QC inspection reports, FEA analyses, and client presentations, expediting design validation and approval",
+        "• Introduced lightweight design iterations for plastic and sheet metal components, improving manufacturability and",
+        "reducing material cost by 8%",
+        "• Collaborated cross-functionally with sourcing and production teams to validate BOM completeness and support cost",
+        "estimation for prototype builds",
+        "• Standardized part numbering and material specifications across multiple projects, reducing engineering rework and",
+        "improving traceability during design audits"
+      ]
+    }
+  ]
+}

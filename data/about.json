@@ -1,0 +1,22 @@
+{
+  "_instructions": "About section content - tell your professional story and showcase key metrics.",
+  "sectionTitle": "About Me",
+  "paragraphs": [
+    "Results-driven Mechanical Design and Reliability Engineer with 5+ years of experience in automotive, rail, and energy\nsectors. Expertise in CAD/CAE (NX, Pro-E, Ansys, AutoCAD) product definition, and reliability validation. Proven\nrecord in DFMEA, fa",
+    "ilure analysis, and cost saving, design optimization, delivering multi-million-dollar savings while\nensuring compliance to ASME GD&T and OCP guidance. Adept at cross-functional collaboration, accelerating design\ncycle and enhancing product robustness."
+  ],
+  "statistics": [
+    {
+      "value": "3",
+      "label": "Companies"
+    },
+    {
+      "value": "5",
+      "label": "Projects"
+    },
+    {
+      "value": "20",
+      "label": "Skills"
+    }
+  ]
+}

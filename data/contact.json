@@ -1,0 +1,62 @@
+{
+  "_instructions": "Contact section - your contact information and form configuration.",
+  "sectionTitle": "Get In Touch",
+  "contactInfo": [
+    {
+      "type": "email",
+      "icon": "fas fa-envelope",
+      "label": "Email",
+      "value": "saisathish7075@gmail.com",
+      "href": "mailto:saisathish7075@gmail.com"
+    },
+    {
+      "type": "phone",
+      "icon": "fas fa-phone",
+      "label": "Phone",
+      "value": "+14697392313",
+      "href": "tel:14697392313"
+    },
+    {
+      "type": "location",
+      "icon": "fas fa-map-marker-alt",
+      "label": "Location",
+      "value": "United States",
+      "href": null
+    },
+    {
+      "type": "linkedin",
+      "icon": "fab fa-linkedin",
+      "label": "LinkedIn",
+      "value": "satishsomesula",
+      "href": "https://www.linkedin.com/in/satishsomesula"
+    }
+  ],
+  "form": {
+    "fields": [
+      {
+        "name": "name",
+        "type": "text",
+        "label": "Your Name",
+        "placeholder": "Your Name",
+        "required": true
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "label": "Your Email",
+        "placeholder": "Your Email",
+        "required": true
+      },
+      {
+        "name": "message",
+        "type": "textarea",
+        "label": "Your Message",
+        "placeholder": "Your Message",
+        "rows": 5,
+        "required": true
+      }
+    ],
+    "submitText": "Send Message",
+    "successMessage": "Thank you for your message! This is a demo form."
+  }
+}
